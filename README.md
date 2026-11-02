@@ -104,7 +104,7 @@ If you use this code or the PIT system in your research, please cite:
 
 ## Contact
 
-For issues or inquiries related to the code, please contact Junfan (Mark) Xiang at [junfanxiang@gmail.com](mailto:junfanxiang@gmail.com) or start an issue on this repository.
+For issues or inquiries related to the code, please contact Junfan Xiang (Mark Heung) at [heungchunfan@gmail.com](mailto:heungchunfan@gmail.com) or start an issue on this repository.
 
 ## License
 
