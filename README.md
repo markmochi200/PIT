@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the source code for the Plaque Indication Toothbrush (PIT), a novel system designed to provide real-time plaque visualization during toothbrushing, as presented in the paper *PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing* (MobiSys ’25, June 23–27, 2025, Anaheim, CA, USA). The PIT system integrates a micro-camera, green LEDs, and a deep learning model to achieve robust plaque segmentation under toothpaste foam, enabling effective plaque removal.
+This repository contains the official implementation demo for the Plaque Indication Toothbrush (PIT), a novel system designed to provide real-time plaque visualization during toothbrushing, as presented in the paper *PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing* (MobiSys ’25, June 23–27, 2025, Anaheim, CA, USA). The PIT system integrates a micro-camera, green LEDs, and a deep learning model to achieve robust plaque segmentation under toothpaste foam, enabling effective plaque removal.
 
 The code implements a GAN-based U-Net model with knowledge distillation for efficient plaque segmentation, achieving an IoU of 75.22% and a latency of 29 ms on a Xiaomi 14 Ultra smartphone. For detailed methodology, hardware design, and evaluation results, please refer to the paper: [PIT Paper](https://doi.org/10.1145/3711875.3729124).
 
